@@ -13,7 +13,7 @@
 🎓 I’m a software enthusiast who loves building useful and creative applications.  
 💻 I enjoy working on **Java, Python, SQL, Web Projects** and automating boring stuff.  
 🧠 Currently leveling up skills in **Spring Boot, REST APIs, and JavaScript frameworks.**  
-📫 Reach me at: [manjkumar@email.com](mailto:manojkumaryennameedhi@email.com)  
+📫 Reach me at: [manjkumaryennameedhi@email.com](mailto:manojkumaryennameedhi@email.com)  
 
 
 ---
