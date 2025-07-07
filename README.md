@@ -14,7 +14,7 @@
 
 Hey! I'm **Y Manoj Kumar**, a passionate software developer and final-year **Integrated M.Tech CSE** student at **Vellore Institute of Technology** (Class of 2026).  
 
-💡 I love building impactful tech — especially in **fintech** and consumer-facing platforms like **PhonePe** and **Zomato**.
+💡 I love building impactful tech — especially in **fintech**.
 
 🧠 My core skills include:
 - Backend development with **Java, Python, and MySQL**
@@ -25,7 +25,7 @@ Hey! I'm **Y Manoj Kumar**, a passionate software developer and final-year **Int
 
 🎯 Actively seeking opportunities as a **Java Full Stack Developer** where I can grow and contribute to impactful products.
 
-📫 Reach me at: [manojkumaryennameedhi@email.com](mailto:manojkumaryennameedhi@email.com)  
+📫 Reach me at: [manojkumaryennameedhi@gmail.com](mailto:manojkumaryennameedhi@gmail.com)  
 🔗 Connect on [LinkedIn](https://www.linkedin.com/in/manojkumaryennameedhi)
 
 ---
