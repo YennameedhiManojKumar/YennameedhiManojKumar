@@ -59,7 +59,7 @@ Hey! I'm **Y Manoj Kumar**, a passionate software developer and final-year **Int
   <a href="https://www.linkedin.com/in/manojkumaryennameedhi/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:manojkumaryennameedhi@email.com">
+  <a href="mailto:manojkumaryennameedhi@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/YennameedhiManojKumar" target="_blank">
